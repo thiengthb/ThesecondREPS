@@ -9,6 +9,7 @@ using namespace std;
 
 enum Dir { No, Up, Down, Right, Left };
 
+const std::string char = "hello";
 const int Max = 4;
 const int Min = 0;
 
